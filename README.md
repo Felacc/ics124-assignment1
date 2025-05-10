@@ -1,2 +1,4 @@
-# ics124-assignment1
-Simple implementation of TicTacToe in Java
+# tic-tac-toe
+Simple implementation of Tic-tac-toe in Java.
+
+Assginment 1 of the ICS-124  (Algorithms and Data Structures) Course at Camosun College.
